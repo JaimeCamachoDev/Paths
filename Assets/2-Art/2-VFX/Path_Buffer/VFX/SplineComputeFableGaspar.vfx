@@ -2000,7 +2000,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615918}
   m_ExposedName: Lifetime
   m_Exposed: 1
-  m_Order: 3
+  m_Order: 2
   m_Category: 
   m_Min:
     m_Type:
@@ -2308,7 +2308,7 @@ MonoBehaviour:
   - {fileID: 8926484042661616241}
   m_ExposedName: Color
   m_Exposed: 1
-  m_Order: 4
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:
